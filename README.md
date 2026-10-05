@@ -3,7 +3,9 @@
 A mini project that uses machine learning to predict the most probable disease from symptoms entered by the user, and gives basic health advice.
 
 **Author:** Yashaswini V N
+
 **Institution:** GRT Institute of Engineering and Technology
+
 **Mini Project**
 
 > ⚠️ **Disclaimer:** This project is for educational purposes only. It is not a medical diagnosis tool. Always consult a qualified doctor.
